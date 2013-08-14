@@ -5,8 +5,8 @@
     <string name="app_name">ちんげんしゅう</string>
     <string name="ChingenPackVersion">0.1</string>
     <string name="main_description_text">お好きなモードを選んでね！</string> 
-    <string name="chingen_button_text">ちんげんスタート！</string>
-    <string name="chingen_panic_button_text">ちんげんパニックスタート！</string> 
+    <string name="chingen_button_text">ちんげん</string>
+    <string name="chingen_panic_button_text">ちんげんパニック</string> 
     
     
     <!--  Chingen  -->
