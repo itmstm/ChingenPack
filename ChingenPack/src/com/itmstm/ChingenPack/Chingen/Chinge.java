@@ -41,6 +41,7 @@ public class Chinge {
 	private int mViewHeight;
 	private int mViewWidth;
 	
+
 	public Chinge(Resources res, boolean debug, int num_points, float distance, int viewWidth, int viewHeight) {
 		
 		// set view size

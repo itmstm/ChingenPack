@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--  Chingen pack -->
     <string name="app_name">ちんげんしゅう</string>
     <string name="ChingenPackVersion">0.1</string>
+    <string name="main_description_text">お好きなモードを選んでね！</string> 
+    <string name="chingen_button_text">ちんげんスタート！</string>
+    <string name="chingen_panic_button_text">ちんげんパニックスタート！</string> 
+    
     
     <!--  Chingen  -->
     <string name="menu_toggle_debug">デバッグ機能のon/off</string>

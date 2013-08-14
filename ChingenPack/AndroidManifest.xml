@@ -10,7 +10,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
         <activity
-            android:name="com.itmstm.ChingenPack.ChingenPanic.MarugeActivity"
+            android:name="ChingenPackActivity"
             android:label="@string/app_name" 
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -19,6 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Chingen.ChingeActivity"></activity>
+        <activity android:name=".ChingenPanic.MarugeActivity"></activity>
+
     </application>
 
 </manifest>
