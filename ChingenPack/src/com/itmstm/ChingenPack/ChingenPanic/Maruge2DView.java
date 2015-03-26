@@ -442,7 +442,8 @@ public class Maruge2DView extends View implements OnTouchListener  {
 	private boolean MarugeAtMouth() {
 		for( int i=0; i<mMaruge.length; i++ ) {
 			// タッチされているか？
-			if( ! mMaruge[i].isTouched() ) return false;
+            // XXX: 下の行をコメントアウトすると、全ての毛をタッチしていないと吸い込まない
+			// if( ! mMaruge[i].isTouched() ) return false;
 			
 			// 毛が口のところにあるか？
 			if( ! mMouthRect.contains( (int)mMaruge[i].getTouchedPoint().x, (int)mMaruge[i].getTouchedPoint().y )) 

@@ -3,7 +3,7 @@
 
     <!--  Chingen pack -->
     <string name="app_name">ちんげんしゅう</string>
-    <string name="ChingenPackVersion">0.1</string>
+    <string name="ChingenPackVersion">0.3</string>
     <string name="main_description_text">お好きなモードを選んでね！</string> 
     <string name="chingen_button_text">ちんげん</string>
     <string name="chingen_panic_button_text">ちんげんパニック</string> 
@@ -23,7 +23,7 @@
     <!--  Chingen Panic -->
     <string name="menu_set_bg_white">背景を白くする</string>
     <string name="menu_set_bg_black">背景を黒くする</string>
-    <string name="MarugeVersion">0.2</string>
+    <string name="MarugeVersion">0.3</string>
     <string name="menu_hide_man">男の表示/非表示</string>
 
 </resources>
